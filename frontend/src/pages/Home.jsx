@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-// components
+// import components
 import WorkoutDetails from "../components/WorkoutDetails";
 import WorkoutForm from "../components/WorkoutForm";
 
